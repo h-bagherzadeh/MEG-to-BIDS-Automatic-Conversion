@@ -1,7 +1,7 @@
 """
 Script for processing and organizing MEG data into BIDS format.
 
-Authors: Hamideh Sadat Bagherzadeh, Ph.D.; Aqil Izadysadr
+Authors: Hamideh Sadat Bagherzadeh, Ph.D. and Aqil Izadysadr
 Created: Sat Sep  9 19:31:19 2023
 
 This script scans directories for MEG data (primarily CTF), anonymizes them,
