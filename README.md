@@ -1,4 +1,4 @@
-# MEG Data BIDS Conversion
+# MEG Data Automatic BIDS Conversion
 
 ## Overview
 This script scans directories for MEG data (primarily CTF), anonymizes them, converts them to BIDS format, and saves additional data like anatomical images and transformations. It then generates a CSV file mapping subject names to numerical identifiers. This script can be adapted for other MEG system datasets.
