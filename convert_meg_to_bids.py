@@ -2,7 +2,7 @@
 Script for processing and organizing MEG data into BIDS format.
 
 Authors: Hamideh Sadat Bagherzadeh, Ph.D. and Aqil Izadysadr
-Created: Sat Sep  9 19:31:19 2023
+Created: 09/09/2023
 
 This script scans directories for MEG data (primarily CTF), anonymizes them,
 converts them to BIDS format, and saves additional data like anatomical images
